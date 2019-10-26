@@ -1,0 +1,116 @@
+body {
+    font-size: 1.2rem;
+    color: tomato;
+    background-color: black;
+    text-shadow: 1px 1px 1px white;
+    font-family: "Indie Flower", cursive;
+    letter-spacing: 3px;
+    margin: 15px 25px 45px 25px;
+}
+/* TEXT: TITLE */
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+/* TEXT: DIRECTIONS */
+h2 {
+    font-size: 1.2rem;
+}
+/* IMAGES: 3 EXAMPLES OF HOW THE TRIANGLES ARE FORMED */
+p {
+    font-size: 1.2rem;
+}
+#img1 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 1px white solid;
+
+}
+#img2 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 1px white solid;
+
+}
+#img3 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 1px white solid;
+
+}
+/* IMAGES: EXAMPLES OF COMPLETED TRIANGLES */
+#img4 {
+
+}
+#img5 {
+    width: 22.9%;
+    height: auto;
+}
+#img6 {
+
+}
+/* IMAGES: STUDENT EXAMPLES */
+#ex1 {
+    width: 20%;
+    height: auto;
+    font-size: 1.2rem;
+
+}
+#ex2 {
+    width: 20%;
+    height: auto;
+    font-size: 1.2rem;
+
+}
+#ex3 {
+    width: 20%;
+    height: auto;
+    font-size: 1.2rem;
+
+}
+#ex4 {
+    width: 20%;
+    height: auto;
+    font-size: 1.2rem;
+
+}
+/* BUTTONS FOR SUBMIT  */
+/* #myButton, #myButton2, #myButton3, #myButton4 {
+    width: 10%;
+    height: auto;
+    font-size: 1.2rem;
+    text-align: center;
+    color: black;
+    background-color: yellow;
+
+} */
+/* INPUT TYPE FORMATTING */
+/* #ex1answer, #ex2answer, #ex3answer, #ex4answer {
+    width: 10%;
+    height: 60px;
+    text-align: center;
+    font-size: 1.2rem;
+} */
+/* PARAGRAPH RETURN */
+/* #demo, #demo2, #demo3, #demo4 {
+    width: 120px;
+    height: 60px;
+    font-size: 1.2rem;
+    padding: 5px;
+    background-color: white;
+    border: 1px 1px 1px black;
+    outline: 1px 1px 1px yellow;
+
+} */
+footer {
+    text-align: center;
+}
