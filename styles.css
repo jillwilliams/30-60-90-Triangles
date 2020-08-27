@@ -27,7 +27,6 @@ p {
     margin-right: 40%;
     border: 1px black solid;
     outline: 1px white solid;
-
 }
 #img2 {
     width: 20%;
@@ -36,7 +35,6 @@ p {
     margin-right: 40%;
     border: 1px black solid;
     outline: 1px white solid;
-
 }
 #img3 {
     width: 20%;
@@ -45,72 +43,46 @@ p {
     margin-right: 40%;
     border: 1px black solid;
     outline: 1px white solid;
-
 }
 /* IMAGES: EXAMPLES OF COMPLETED TRIANGLES */
 #img4 {
-
+    width: 22.9%;
+    height: auto;
 }
 #img5 {
     width: 22.9%;
     height: auto;
 }
 #img6 {
-
+    width: 22.9%;
+    height: auto;
 }
 /* IMAGES: STUDENT EXAMPLES */
 #ex1 {
     width: 20%;
     height: auto;
     font-size: 1.2rem;
-
 }
 #ex2 {
     width: 20%;
     height: auto;
     font-size: 1.2rem;
-
 }
 #ex3 {
     width: 20%;
     height: auto;
     font-size: 1.2rem;
-
 }
 #ex4 {
     width: 20%;
     height: auto;
     font-size: 1.2rem;
-
 }
-/* BUTTONS FOR SUBMIT  */
-/* #myButton, #myButton2, #myButton3, #myButton4 {
-    width: 10%;
-    height: auto;
-    font-size: 1.2rem;
-    text-align: center;
-    color: black;
-    background-color: yellow;
-
-} */
-/* INPUT TYPE FORMATTING */
-/* #ex1answer, #ex2answer, #ex3answer, #ex4answer {
-    width: 10%;
-    height: 60px;
-    text-align: center;
-    font-size: 1.2rem;
-} */
-/* PARAGRAPH RETURN */
-/* #demo, #demo2, #demo3, #demo4 {
-    width: 120px;
-    height: 60px;
-    font-size: 1.2rem;
-    padding: 5px;
-    background-color: white;
-    border: 1px 1px 1px black;
-    outline: 1px 1px 1px yellow;
-
-} */
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+    outline: 1px white solid;
+}
 footer {
     text-align: center;
 }
